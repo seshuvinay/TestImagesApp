@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 download3();
                 download4();
                 download5();
+                findViewById(R.id.submit).setVisibility(View.GONE);
             }
         });
     }
