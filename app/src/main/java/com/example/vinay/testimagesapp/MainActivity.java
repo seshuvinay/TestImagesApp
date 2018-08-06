@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
                 public void run() {
                     download1();
                 }
-            },1000);
+            },2000);
         }
 
 
@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
                 public void run() {
                     download2();
                 }
-            },1000);
+            },2000);
         }
 
     }
@@ -149,7 +149,7 @@ public class MainActivity extends AppCompatActivity {
                 public void run() {
                     download3();
                 }
-            },1000);
+            },2000);
         }
 
 
